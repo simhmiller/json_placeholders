@@ -9,19 +9,19 @@
     "id": 2,
     "name": "Son",
     "username": "Heung-min",
-    "position": "forward",
+    "position": "forward"
   },
   {
     "id": 3,
     "name": "Dele",
     "username": "Ali",
-    "position": "midfielder",
+    "position": "midfielder"
   },
   {
     "id": 4,
     "name": "serge",
     "username": "aurier",
-    "position": "defender",
+    "position": "defender"
   },
   {
     "id": 5,
