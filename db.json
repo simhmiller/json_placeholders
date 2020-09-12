@@ -1,11 +1,9 @@
 {
-  users: 
-  [
-    {
-      "id": 1,
-      "firstName": "harry",
-      "LastName": "kane",
-      "position": "forward"
-    }
-  ]
+  users: [
+  {
+    "id": 1,
+    "firstName": "harry",
+    "LastName": "kane",
+    "position": "forward"
+  }]
 }
