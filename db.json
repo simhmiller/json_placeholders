@@ -7,26 +7,26 @@
    },
   {
     "id": 2,
-    "name": "Son",
-    "username": "Heung-min",
+    "firstName": "Son",
+    "LastName": "Heung-min",
     "position": "forward"
   },
   {
     "id": 3,
-    "name": "Dele",
-    "username": "Ali",
+    "firstName": "Dele",
+    "LastName": "Ali",
     "position": "midfielder"
   },
   {
     "id": 4,
-    "name": "serge",
-    "username": "aurier",
+    "firstName": "serge",
+    "LastName": "aurier",
     "position": "defender"
   },
   {
     "id": 5,
-    "name": "matt",
-    "username": "doherty",
+    "firstName": "matt",
+    "LastName": "doherty",
     "position": "defender"
   }
 ]
