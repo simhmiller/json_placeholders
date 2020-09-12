@@ -3,19 +3,19 @@
     {
       "id": 1,
       "firstName": "harry",
-      "LastName": "kane",
+      "lastName": "kane",
       "position": "forward"
     },
     {
       "id": 2,
       "firstName": "Son",
-      "LastName": "Heung-min",
+      "lastName": "Heung-min",
       "position": "forward"
     },
     {
       "id": 3,
       "firstName": "Dele",
-      "LastName": "Ali",
+      "lastName": "Ali",
       "position": "midfielder"
     },
     {
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "firstName": "matt",
-      "LastName": "doherty",
+      "lastName": "doherty",
       "position": "defender"
     }
   ],
